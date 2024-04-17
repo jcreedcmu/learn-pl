@@ -1,0 +1,46 @@
+#+TITLE: Ściągawka
+
+** Przypadki
+- Mianownik - Nominative
+- Dopełniacz - Genitive
+- Celownik - Dative
+- Biernik - Accusative
+- Narzędnik - Instrumental
+- Miejscownik - Locative
+
+** Liczba pojedyncza
+| Mn | kto,co       |           | białe mleko    | zimna woda    | słodki sok       |
+| D  | kogo,czego   | nie ma... | białego mleka  | zimnej wody   | słodkiego soku   |
+| C  | komu,czemu   | dzięki... | białemu mleku  | zimnej wodzie | słodkiemu sokowi |
+| B  | kogo,co      | mam...    | białe mleko    | zimną wodę    | słodki sok       |
+| N  | z kim,z czym | z(e)...   | białym mlekiem | zimną wodą    | słodkim sokiem   |
+| Mc | o kim,o czym | o...      | białym mleku   | zimnej wodzie | słodkim soku     |
+
+** Liczba mnoga
+| Mn | kto,co       |           | białe mleka     | zimne wody     | słodkie soki    |
+| D  | kogo,czego   | nie ma... | białych mlek    | zimnych wód    | słodkich soków  |
+| C  | komu,czemu   | dzięki... | białym mlekom   | zimnym wodom   | słodkim sokom   |
+| B  | kogo,co      | mam...    | białe mleka     | zimne wody     | słodkie soki    |
+| N  | z kim,z czym | z(e)...   | białymi mlekami | zimnymi wodami | słodkimi sokami |
+| Mc | o kim,o czym | o...      | białych mlekach | zimnych wodach | słodkich sokach |
+
+** Liczby
+| Mn | kto,co       |           | dwa okna     | dwie nogi    | dwa koty     |
+| D  | kogo,czego   | nie ma... | dwóch okien  | dwóch nóg    | dwóch kotów  |
+| C  | komu,czemu   | dzięki... | dwóm oknom   | dwóm nogom   | dwóm kotom   |
+| B  | kogo,co      | mam...    | dwa okna     | dwie nogi    | dwa koty     |
+| N  | z kim,z czym | z(e)...   | dwoma oknami | dwoma nogami | dwoma kotami |
+| Mc | o kim,o czym | o...      | dwóch oknach | dwóch nogach | dwóch kotach |
+
+
+| Mn | pięć wilków      |
+| D  | pięciu wilków    |
+| C  | pięciu wilkom    |
+| B  | pięć wilków      |
+| N  | pięcioma wilkami |
+| Mc | pięciu wilkach   |
+
+** -Variables
+# Local Variables:
+# default-input-method: polish-slash
+# End:
